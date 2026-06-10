@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**helge42/helge42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hallo
 
-Here are some ideas to get you started:
+  Linux-Administration im Schulumfeld mit [linuxmuster.net](https://linuxmuster.net) (Merian-Schule).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### 🐧 linuxmuster
+
+  | Projekt | Beschreibung |
+  |---------|--------------|
+  | [linuxmusterclient_homemode](https://github.com/helge42/linuxmusterclient_homemode) | PAM-Skripte
+  für per-Benutzer LUKS2-verschlüsselte Home-Partitionen auf Debian-13-Schul-PCs |
+
+  > Beiträge und Rückfragen anderer Schulen sind willkommen – einfach ein
+  [Issue](https://github.com/helge42/linuxmusterclient_homemode/issues) eröffnen.
+
