@@ -12,4 +12,4 @@
 ### Plugins for Joplin 
  | Projekt | Beschreibung |
   |---------|--------------|
-  | [Geodata plugin](https://github.com/helge42/joplin-plugin-geodata) |  Joplin-Plugin zum Ansehen und Bearbeiten der Geodaten einer Notiz - gebaut für die Android-App  |
+  | [Geodata plugin](https://github.com/helge42/joplin-plugin-geodata) |  A Joplin plugin to view and edit a note's geolocation — built for the Android app, where Joplin can open the coordinates on a map but not change them. A geolocation can be copied as a link to a note. gpx-tracks can be shown in maptiles in notes.|
